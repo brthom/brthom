@@ -4,12 +4,12 @@
 
 
 *Here's a list of compsci related classes I've completed at Michigan:*  
--Calculus 1
+-Calculus 1  
 -EECS 183: Elementary Programming Concepts  
 -EECS 203: Discrete Mathematics  
 -EECS 280: Programming and Intro Data Structures  
--(current)EECS 281: Data Structures and Algorithms 
--(current) Calculus 2
+-(current)EECS 281: Data Structures and Algorithms  
+-(current) Calculus 2  
 
 📫 How to reach me:  
 -benjt@umich.edu  
