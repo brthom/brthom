@@ -1,6 +1,4 @@
 ***👋 Hi, I’m Ben Thomas!***  
-👀 I’m interested in archeology and its growing relation with the field of computer science.  
-🌱 I'm currently learning web systems @Umich
 
 📫 How to reach me:  
 -benjt@umich.edu  
